@@ -116,7 +116,7 @@ from the above release links, and install it via ``pip``:
 
    Note that the versions of `jaxlib` and `jax` should be consistent.
 
-   For example, if you are using `jax==0.3.14`, you would better install `jax==0.3.14`.
+   For example, if you are using `jax==0.3.14`, you would better install `jaxlib==0.3.14`.
 
 
 
